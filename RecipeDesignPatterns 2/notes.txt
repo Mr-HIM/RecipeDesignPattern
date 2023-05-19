@@ -1,0 +1,32 @@
+
+https://github.com/RecipeMS/RecipeDesignPatterns
+
+to run the project:
+
+ mvn clean package
+
+then run:
+
+  java -jar target\project.jar
+
+Patters
+2. Singleton Pattern
+3. strategy Pattern
+4. Facade Pattern
+
+Factory Method Pattern classes
+1. AfroRecipeFactory
+2. AsianRecipeFactory
+3. MiddleEasternRecipeFactory
+4. WesternRecipeFactory
+5. OthersRecipeFactory
+
+Recipe classes
+1. AfroRecipe
+2. AsianRecipe
+3. MiddleEasternRecipe
+4. WesternRecipe
+5. OthersRecipe
+
+Singleton Pattern classes
+1. RecipeBookSingleton
